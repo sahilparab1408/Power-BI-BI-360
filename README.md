@@ -5,7 +5,7 @@
 
 - **Project objective:** 
 
-- Create a _[Power BI 360 report] (https://github.com/sahilparab1408/Power-BI-BI-360/blob/main/BI%20-%20360.pdf) 
+- Create a _[Power BI 360 report] Link: (https://app.powerbi.com/view?r=eyJrIjoiYzdiZTI5NzItYzA2MS00NjM2LTkzMTctNmY2Mjc2ZTA5MDRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
