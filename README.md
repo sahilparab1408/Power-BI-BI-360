@@ -5,7 +5,7 @@
 
 - **Project objective:** 
 
-- Create a Power BI 360 report Link: [Link](https://app.powerbi.com/view?r=eyJrIjoiYzdiZTI5NzItYzA2MS00NjM2LTkzMTctNmY2Mjc2ZTA5MDRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
+- Create a [Power BI 360 report] : [Link](https://app.powerbi.com/view?r=eyJrIjoiYzdiZTI5NzItYzA2MS00NjM2LTkzMTctNmY2Mjc2ZTA5MDRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
