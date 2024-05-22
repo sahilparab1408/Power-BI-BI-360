@@ -26,7 +26,7 @@
 
 - Supply Chain View: Get Forecast Accuracy, Net Error and risk profile for product, segment, category, customer etc.
 
-- **Executive View: A top level dashboard for executives consolidating top insights from all dimensions of business.
+- Executive View: A top level dashboard for executives consolidating top insights from all dimensions of business.
 
 
 
