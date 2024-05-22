@@ -18,13 +18,13 @@
 
 - **Project objective:** 
 
-- **Finance view: Get  P & L statement for any customer / product / country or aggregation of the above over any time period and More.
+- Finance view: Get  P & L statement for any customer / product / country or aggregation of the above over any time period and More.
 
-- **Sales View: Analyze the performance of your customer(s) over key metrics like Net Sales, Gross Margin and view the same in profitability / Growth matrix.
+- Sales View: Analyze the performance of your customer(s) over key metrics like Net Sales, Gross Margin and view the same in profitability / Growth matrix.
 
-- **Marketing View: Analyze the performance of your product(s) over key metrics like Net Sales, Gross Margin and view the same in profitability / Growth matrix.
+- Marketing View: Analyze the performance of your product(s) over key metrics like Net Sales, Gross Margin and view the same in profitability / Growth matrix.
 
-- **Supply Chain View: Get Forecast Accuracy, Net Error and risk profile for product, segment, category, customer etc.
+- Supply Chain View: Get Forecast Accuracy, Net Error and risk profile for product, segment, category, customer etc.
 
 - **Executive View: A top level dashboard for executives consolidating top insights from all dimensions of business.
 
